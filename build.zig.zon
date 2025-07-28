@@ -1,0 +1,6 @@
+.{
+    .name = .bitstream,
+    .version = "0.15.0-dev.1254+c9ce1debe",
+    .paths = .{ "main.zig", "build.zig", "build.zig.zon" },
+    .fingerprint = 0x234ed9b7180c9f8,
+}
